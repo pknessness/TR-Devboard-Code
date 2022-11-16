@@ -1,0 +1,21 @@
+!SESSION 2022-11-15 19:30:13.777 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-11-15 19:32:20.599
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-11-15 19:32:20.690
+!MESSAGE Log4j initialized with config file C:\Users\ansha\Mbed Programs\TR-Embedded-2022-mbed-os\TR-mbed6\bobamasterdevboard_A\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-11-15 19:32:23.937
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-15 20:27:10.791
+!MESSAGE Indexed 'Blinky' (21 sources, 99 headers) in 3.13 sec: 7,863 declarations; 26,844 references; 2 unresolved inclusions; 42 syntax errors; 147 unresolved names (0.42%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-15 20:27:13.434
+!MESSAGE Indexed 'remote_control' (33 sources, 120 headers) in 2.64 sec: 12,188 declarations; 70,777 references; 2 unresolved inclusions; 42 syntax errors; 145 unresolved names (0.17%)
